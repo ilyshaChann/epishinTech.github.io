@@ -1,2 +1,2 @@
 # epishinTech.github.io
-Development and production of controllers
+Разработка и производство промышленных контроллеров
